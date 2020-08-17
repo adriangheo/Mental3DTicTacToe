@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mental 3d Tic Tac Toe</string>
+
+
+    <string name="row_nr_0">3</string>
+    <string name="row_nr_1">2</string>
+    <string name="row_nr_2">1</string>
+
+    <string name="column_nr_0">A</string>
+    <string name="column_nr_1">B</string>
+    <string name="column_nr_2">C</string>
+
+    <string name="board_nr_0">Top</string>
+    <string name="board_nr_1">Core</string>
+    <string name="board_nr_2">Bottom</string>
+
+
+    <string name="enabled_wall_obstacles">Classic (without Locked Spaces)</string>
+    <string name="disabled_wall_obstacles">With Locked Spaces (harder)</string>
+
+    <string name="emoji_lock">&#128274;</string>
+    <string name="emoji_lock2">&#128272;</string>
+    <string name="emoji_x">&#10060;</string>
+    <string name="emoji_o">&#11093;</string>
+
+
+    <string name="instructions_1">This is a game of Tic Tac Toe with a twist. You\'ve probably played Tic Tac Toe before. \n\tThe original goal of the game is for the player to place three of their marks in a horizontal, vertical, or diagonal row.\n</string>
+    <string name="instructions_2">3-in-a-row placed horizontally:</string>
+    <string name="instructions_3">3-in-a-row placed vertically:</string>
+    <string name="instructions_4">3-in-a-row placed diagonally:</string>
+    <string name="instructions_5">\nSimilar to traditional tic-tac-toe, 3d-tic-tac-toe is played in just as the traditional version but this time in a cubical array of cells. \n\tThe winning row can be horizontal, vertical, or diagonal on a single board as in regular tic-tac-toe, or vertically in a column, or a diagonal line through three boards.\n\t Bellow are a few examples of successful 3-in-a-row placements in a 3d-tic-tac-toe game.\n </string>
+    <string name="instructions_6">\nPerhaps after a few games, you realise that the game can be very easily won by the player who first takes the middle core spot. So let\'s increase the challenge by locking that space from both players. \n\tAnd while we\'re at it let\'s lock a few more spaces, but this time, randomly, in order to add a little unpredictability to the game. </string>
+    <string name="instructions_7">\nFinally, we arrive at the real purpose of the game: increasing your inteligence and visual representations. In other words: your visual imagination and visual memory. \n\t After you get accustomed to the game, the challenge is to play it (and consistently win) without any visual aids representing the 3d matrix. You will only place your moves with the text based interface you see bellow. \n\t The 3d matrix will only be in you head!!! </string>
+    <string name="instructions_8">So that\'s it. Good luck and have fun!</string>
+
+    <string name="eg1">example 1:</string>
+    <string name="eg2">example 2:</string>
+    <string name="eg3">example 3:</string>
+    <string name="eg4">example 4:</string>
+    <string name="eg5">Locks example 1:</string>
+    <string name="eg6">Locks example 2:</string>
+
+    <string name="cpu">CPU</string>
+    <string name="player">Player</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+
+
+    <string name="linktosite">
+        <a href="https://www.adriangheo.com/p/mental-3d-tic-tac-toe-privacy-policy.html">Privacy Policy</a>
+    </string>
+
+
+    <string name="blank_line"> \t </string>
+
+
+</resources>
